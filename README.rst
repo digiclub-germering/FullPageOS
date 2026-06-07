@@ -76,7 +76,7 @@ You can build it by issuing the following commands::
     sudo apt install coreutils p7zip-full qemu-user-static
     
     git clone https://github.com/guysoft/CustomPiOS.git
-    git clone https://github.com/guysoft/FullPageOS.git
+    git clone https://github.com/digiclub-germering/FullPageOS.git
     cd FullPageOS/src/image
     wget -c --trust-server-names 'https://downloads.raspberrypi.org/raspios_lite_armhf_latest'
     cd ..
